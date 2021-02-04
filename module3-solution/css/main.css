@@ -1,0 +1,25 @@
+#menu-item {
+	background: #f89;
+}
+
+.container {
+	background: #f09;
+
+}
+
+h1,
+h3 {
+	text-align: center;
+}
+
+#header-nav {
+	background-color: #e8e0e0;
+	max-width: 97%;
+	margin: 0 auto;
+}
+
+@media (min-width: 426px) {
+body .container {
+	max-width: 97%;
+}
+}
